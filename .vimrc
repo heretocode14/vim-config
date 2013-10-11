@@ -10,6 +10,9 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
+" Make colors brighter
+set background=dark
+
 " Tab completion
 set wildmode=longest,list,full
 set wildmenu
