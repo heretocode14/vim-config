@@ -45,7 +45,7 @@ set number
 
 " EXplicitly tell synastic checker which checker to use
 let g:syntastic_javascript_checkers=['jslint']
-let g:syntastic_javascript_jslint_conf="--white"
+let g:syntastic_javascript_jslint_conf="--white --continue"
 
 " For case insensitive searching
 set smartcase
